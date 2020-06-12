@@ -105,7 +105,7 @@ namespace CopyDirectory
         /// </summary>
         private static bool ShowInitText()
         {
-            Console.WriteLine("\n\nDCSL copy folder demo.\n\nPress any key to continue.\n" +
+            Console.WriteLine("\n\nCopy folder demo.\n\nPress any key to continue.\n" +
                 "Press Esc to interrupt the copy process.\n\n" +
                 "The process will start from where it left off when started again.\n");
             var key  = Console.ReadKey();
