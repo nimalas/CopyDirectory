@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CopyDirectory": {
+      "commandName": "Project"
+    }
+  }
+}
